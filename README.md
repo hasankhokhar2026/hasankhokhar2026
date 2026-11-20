@@ -1,13 +1,10 @@
 # Hasan Khokhar
 
-Founder of [Nimbryxo Studio](https://apify.com/nimbryxo-studio). I build Apify Actors for web scraping, data extraction, and workflow automation.
+I run [Nimbryxo Studio](https://apify.com/nimbryxo-studio), where I build Apify Actors that turn public web pages into data people can drop straight into their own workflows.
 
-- Turn public web content into structured datasets.
-- Automate repetitive browser and data collection tasks.
-- Build custom scrapers and tools that connect web data to applications.
+**Documentation for our Actors: [hasankhokhar2026.github.io/apify-actor-examples](https://hasankhokhar2026.github.io/apify-actor-examples/)**
 
-[Explore Nimbryxo Studio on Apify](https://apify.com/nimbryxo-studio)
+Pick a site, see what an Actor returns and what a run costs, then copy the call in Python, JavaScript, cURL or MCP.
 
-[Actor examples and documentation](https://github.com/hasankhokhar2026/apify-actor-examples)
-
-[Browse the Actor catalog, schemas, and Python guides](https://hasankhokhar2026.github.io/apify-actor-examples/).
+- Nimbryxo Studio on the Apify Store: [apify.com/nimbryxo-studio](https://apify.com/nimbryxo-studio)
+- The repo behind the docs, with a few runnable examples: [apify-actor-examples](https://github.com/hasankhokhar2026/apify-actor-examples)
